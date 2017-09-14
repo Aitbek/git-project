@@ -6,3 +6,5 @@ $dossier = [
 ];
 for($i = 0; $i < count($dossier); $i++)
 	echo "{$dossier[$i]['name']} was born {$dossier [$i]['born']}<br />"; 
+
+echo "Hello git!";
